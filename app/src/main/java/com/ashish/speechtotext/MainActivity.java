@@ -1,4 +1,4 @@
-package com.androstock.speechtotext;
+package com.ashish.speechtotext;
 
 import android.Manifest;
 import android.content.Intent;
@@ -16,9 +16,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-/**
- * Created by SHAJIB on 8/2/2017.
- */
+
 
 public class MainActivity extends AppCompatActivity implements RecognitionListener {
 

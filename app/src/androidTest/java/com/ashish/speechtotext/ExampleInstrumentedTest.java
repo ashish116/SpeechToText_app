@@ -1,4 +1,4 @@
-package com.androstock.speechtotext;
+package com.ashish.speechtotext;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,4 +1,4 @@
-package com.androstock.speechtotext;
+package com.ashish.speechtotext;
 
 import org.junit.Test;
 

@@ -1,13 +1,11 @@
-package com.androstock.speechtotext;
+package com.ashish.speechtotext;
 
 import android.content.Context;
 import android.content.pm.PackageManager;
 import android.os.Build;
 import android.support.v4.app.ActivityCompat;
 
-/**
- * Created by SHAJIB on 8/2/2017.
- */
+
 
 public class Function {
 
